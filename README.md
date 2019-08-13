@@ -11,3 +11,6 @@ Day | Hours Studying | Subject type | Link | Foot Note
 3 | 0.5 | Reading |  | HW- Bandit
 4 | 1 | Class Work |  | Ubuntu, Putty, VmWare installation
 4 | 0.1 | Video Lecture | https://www.youtube.com/watch?v=wteUW2sL7bc | How Hard Drive Work
+5 | 5 | Quiz |  | 
+6 | 5 | Quiz |  |
+7 | 4 | Lab Work |  | Hardware disassembly, BIOS
